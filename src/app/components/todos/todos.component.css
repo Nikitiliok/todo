@@ -30,6 +30,11 @@
   font-size: 16px;
   font-weight: bold;
   border: none;
+  transition: background-color 0.3s;
+}
+
+.todos__form__submit:hover {
+  background-color: #9671eba1;
 }
 
 .todo {
@@ -60,4 +65,9 @@
   color: white;
   border: none;
   margin-left: auto;
+  transition: background-color 0.3s;
+}
+
+.button:hover {
+  background-color: #9671eba1;
 }
