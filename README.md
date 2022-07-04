@@ -1,3 +1,3 @@
 ## TODO LIST
 
-(Link)[https://nikitiliok.github.io/todo/]
+[Link](https://nikitiliok.github.io/todo/)
